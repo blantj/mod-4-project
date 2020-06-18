@@ -30,8 +30,11 @@ https://github.com/ChrisFiorentine/mod-4-project/blob/master/Flat_word_cloud.png
 
 https://github.com/ChrisFiorentine/mod-4-project/blob/master/Negative_bar_freq.png
 
-!['']('https://github.com/ChrisFiorentine/mod-4-project/blob/master/Negative_word_cloud.png')
+https://github.com/ChrisFiorentine/mod-4-project/blob/master/Negative_word_cloud.png
 
+https://github.com/ChrisFiorentine/mod-4-project/blob/master/Positive%20Word%20Cloud.png
+
+https://github.com/ChrisFiorentine/mod-4-project/blob/master/positive_bar_freq.png
 
 
 # Modeling
